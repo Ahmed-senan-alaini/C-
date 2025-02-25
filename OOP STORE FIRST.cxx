@@ -1,7 +1,7 @@
 #include <iostream>
 #include <string.h>
 using namespace std;
-class apple
+class store
 {
   private:
     double buyapple = 3.6;
